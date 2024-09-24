@@ -1,0 +1,6 @@
+{
+  "Link": {
+    "href": { "type": "string", "required": true },
+    "disabled": { "type": "never", "required": false }
+  }
+}
